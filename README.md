@@ -41,7 +41,3 @@
 <img align="right" height="300" src="https://media.discordapp.net/attachments/433708827766947840/1222689288484028416/MOSHED-2024-3-28-0-28-59-ezgif.com-crop.gif?ex=66172122&is=6604ac22&hm=dcf473c4fa29b4e85b0010e8c035c610dbbf370a85f5055841e7523dd17ae770&=&width=741&height=741"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/Ocyn/Ocyn/output/snake.svg" alt="Snake animation" />
-
-###
