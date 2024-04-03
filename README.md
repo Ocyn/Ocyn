@@ -1,4 +1,9 @@
-<h2 align="left">Ocyn here 🖖<br><ul>@42Lyon Student<br>Freelance developer.<br>Average life enjoyer</h2>
+<h2 align="left">
+  Ocyn here 🖖<br>
+		- @42Lyon Student
+		- Freelance developer.
+		- Average life enjoyer
+  </h2>
 
 ###
 
