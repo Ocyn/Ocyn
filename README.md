@@ -1,9 +1,12 @@
+<h1>
+Ocyn here 🖖
+<br>
+</h1>
 <h2 align="left">
-  Ocyn here 🖖<br>
 	<ul>
-	<il>@42Lyon Student</il>
-	<il>Freelance developer</il>
-	<il>Average life enjoyer</il>
+	<li>@42Lyon Student</li>
+	<li>Freelance developer</li>
+	<li>Average life enjoyer</li>
 	</ul>
   </h2>
 
