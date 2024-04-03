@@ -1,8 +1,10 @@
 <h2 align="left">
   Ocyn here 🖖<br>
-		- @42Lyon Student
-		- Freelance developer.
-		- Average life enjoyer
+	<ul>
+	<il>@42Lyon Student</il>
+	<il>Freelance developer</il>
+	<il>Average life enjoyer</il>
+	</ul>
   </h2>
 
 ###
