@@ -26,6 +26,8 @@ Ocyn here 🖖
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" height="30" alt="visualstudio logo"  />
 </div>
 
+[![jcuzin's 42 stats](https://badge.mediaplus.ma/black/jcuzin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ###
 
 <div align="left">
