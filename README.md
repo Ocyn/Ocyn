@@ -27,8 +27,6 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" height="30" alt="visualstudio logo"  />
 </div>
 
-[![jcuzin's 42 stats](https://badge.mediaplus.ma/darkblue/jcuzin)](https://github.com/oakoudad/badge42)
-
 ###
 
   <a href="https://www.instagram.com/ociy_n?igsh=MWd4czY5NXhubG8xYw==" target="_blank">
