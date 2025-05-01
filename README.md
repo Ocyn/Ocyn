@@ -1,5 +1,5 @@
 <h1>
-<img src="./ocyn-title-gif" alt="Ocyn" >
+<img src="./ocyn-title.gif" alt="Ocyn" >
 </a>
 <br>
 </h1>
