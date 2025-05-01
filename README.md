@@ -1,5 +1,5 @@
 <h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=55&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Ocyn+here+!+🖖" alt="Typing SVG" />
+<img src="./ocyn-title-gif" alt="Ocyn" >
 </a>
 <br>
 </h1>
