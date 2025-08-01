@@ -1,5 +1,7 @@
-![Omnissiah](https://img.shields.io/badge/ADEPTUS_MECHANICUS-DATA--TERMINAL-00ff00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMDBmZjAwIi8+Cjwvc3ZnPgo=&labelColor=000000)
-![Archive](https://img.shields.io/badge/OMNISSIAH_ARCHIVE-0CYN-ff0000?style=for-the-badge&labelColor=000000)
+
+<div align="center">
+  <img src="./ocyn-title.gif" alt="Ocyn" width="100%">
+</div>
 
 ```console
   ╔══════════════════════════════════════════════════════════════════════════════════╗
@@ -23,12 +25,6 @@
 ```
 
 <div align="center">
-  <img src="./ocyn-title.gif" alt="Ocyn" width="100%">
-</div>
-
-
-
-<div align="center">
 
 ```ascii
   ████████╗███████╗ ██████╗██╗  ██╗    ██████╗ ██████╗ ██╗███████╗███████╗████████╗
@@ -41,6 +37,8 @@
                     DESIGNATION: 0CYN-PRIME                               
                   FORGE WORLD: 42LYON MANUFACTORUM                         
 ```
+![Omnissiah](https://img.shields.io/badge/ADEPTUS_MECHANICUS-DATA--TERMINAL-00ff00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMDBmZjAwIi8+Cjwvc3ZnPgo=&labelColor=000000)
+![Archive](https://img.shields.io/badge/OMNISSIAH_ARCHIVE-0CYN-ff0000?style=for-the-badge&labelColor=000000)
 
 </div>
 
