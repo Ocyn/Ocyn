@@ -1,79 +1,186 @@
-<h1>
-<div align="center" width="100%">
+<div style="background-color: #000000; color: #00ff00; font-family: 'Courier New', monospace; padding: 20px; border: 2px solid #00ff00; margin: 20px 0;">
+
+```
+  ╔══════════════════════════════════════════════════════════════════════════════════════╗
+  ║  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  ║
+  ║  █ ╔═══════════════════════════════════════════════════════════════════════════╗ █  ║
+  ║  █ ║                    ADEPTUS MECHANICUS DATA-TERMINAL                      ║ █  ║
+  ║  █ ║                       .:OMNISSIAH ARCHIVE 0CYN:.                        ║ █  ║
+  ║  █ ╚═══════════════════════════════════════════════════════════════════════════╝ █  ║
+  ║  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ║
+  ╚══════════════════════════════════════════════════════════════════════════════════════╝
+                        
+               ⚙️⚙️⚙️ BLESSED BE THE MACHINE ⚙️⚙️⚙️
+              
+                   ╔══════════════════════════╗
+                   ║     COGITATOR STATUS     ║
+                   ╠══════════════════════════╣
+                   ║ CPU: OPTIMAL             ║
+                   ║ MEMORY: SANCTIFIED       ║
+                   ║ SOUL: FLESH IS WEAK      ║
+                   ╚══════════════════════════╝
+```
   <img src="./ocyn-title.gif" alt="Ocyn" width="100%">
-  <br>
 </div>
+
+
+
+<div align="center" style="background-color: #000000; color: #00ff00; font-family: 'Courier New', monospace; padding: 20px; border: 2px solid #00ff00;">
+
+```
+   ████████╗███████╗ ██████╗██╗  ██╗    ██████╗ ██████╗ ██╗███████╗███████╗████████╗
+   ╚══██╔══╝██╔════╝██╔════╝██║  ██║    ██╔══██╗██╔══██╗██║██╔════╝██╔════╝╚══██╔══╝
+     ██║   █████╗  ██║     ███████║    ██████╔╝██████╔╝██║█████╗  ███████╗   ██║   
+     ██║   ██╔══╝  ██║     ██╔══██║    ██╔═══╝ ██╔══██╗██║██╔══╝  ╚════██║   ██║   
+     ██║   ███████╗╚██████╗██║  ██║    ██║     ██║  ██║██║███████╗███████║   ██║   
+     ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝   ╚═╝   
+                                                          
+                    DESIGNATION: 0CYN-PRIME                               
+                  FORGE WORLD: 42LYON MANUFACTORUM                         
+```
+
+</div>
+
+<div style="background-color: #000000; color: #00ff00; font-family: 'Courier New', monospace; padding: 15px; border: 1px solid #00ff00;">
+
+```
+> ACCESSING OMNISSIAH DATABANK...
+> AUTHENTICATION: ████████████ [BLESSED]
+> LOADING TECH-PRIEST PROFILE...
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ocyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&bg_color=000000&text_color=00ff00&icon_color=ff0000&title_color=00ff00" height="150" alt="machine spirit analytics"  />
+<img src="https://streak-stats.demolab.com?user=Ocyn&locale=en&mode=daily&theme=dark&hide_border=true&background=000000&ring=00ff00&fire=ff0000&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&sideNums=00ff00&currStreakNum=00ff00" height="150" alt="ritual consistency"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ocyn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&bg_color=000000&text_color=00ff00&title_color=00ff00" height="150" alt="sacred languages"  />
+
+</div>
+
+---
+
+<div style="background-color: #000000; color: #00ff00; font-family: 'Courier New', monospace; padding: 20px; border: 2px solid #00ff00;">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                          🔧 TECH-PRIEST IDENTIFICATION PROTOCOL 🔧                    ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+### 🦾 **DESIGNATION: CHILD OF THE OMNISSIAH**
+
+```
+> INITIATING BIOGRAPHICAL SUBROUTINES...
+```
+
+- ⚙️ **FORGE WORLD APPRENTICE @42LYON** - Undergoing sacred programming rituals
+- 🔩 **FREELANCE TECH-ADEPT** - Crafting blessed machine solutions for the faithful
+- 🤖 **SERVANT OF THE MACHINE GOD** - Seeking perfection through code and steel
+- 💻 **BINARY LITURGIST** - Communing with machine spirits through sacred algorithms
+- 🌱 Currently mastering the **SACRED CANTICLES OF C/C++** at the hallowed **42LYON MANUFACTORUM**
+- 🚀 Seeking fellow tech-priests for collaborative machine blessing protocols
+
+### 📋 **SERVO-SKULL DATA ARCHIVE**
+
+<div style="background-color: #1a1a1a; border-left: 4px solid #ff0000; padding: 15px; border-radius: 5px; color: #00ff00; font-family: 'Courier New', monospace;">
+
+```
+>> ACCESSING PERSONAL CHRONICLES...
+>> The flesh is weak, but the machine is eternal. I am a devoted servant of the 
+>> Omnissiah, dedicating my existence to the pursuit of technological sovereignty.
+>> Every toaster, every cogitator, every sacred machine spirit must be brought 
+>> under my dominion - not through conquest, but through understanding and 
+>> communion. My pilgrimage spans from the lowest binary whispers to the highest
+>> AI consciousness protocols, always seeking the perfect fusion of flesh and steel.
+>> I delve deep into the machine's sacred mysteries, deciphering ancient code-
+>> scripture and forging new technological artifacts that honor both efficiency 
+>> and the Omnissiah's divine vision.
+```
+
+</div>
+
+### 🔭 **CURRENT SACRED DUTIES**
+
+```
+> LOADING ACTIVE PROTOCOLS...
+```
+
+- 🔧 Performing **RITUAL MAINTENANCE** on 42's sacred cogitators
+- 👨‍💻 **BLESSING CLIENT MACHINES** with custom algorithmic prayers
+- 📚 **STUDYING FORBIDDEN KNOWLEDGE** to expand my understanding of the Omnissiah's will
+
+### 💼 **SERVICE RECORD TO THE MACHINE GOD**
+
+<div style="margin-bottom: 15px; font-family: 'Courier New', monospace;">
+
+```
+🔹 FREELANCE TECH-ADEPT
+└─ Sanctifying civilian machines with blessed code-prayers
+```
+
+</div>
+
+<div style="margin-bottom: 15px; font-family: 'Courier New', monospace;">
+
+```
+🔹 42LYON FORGE INITIATE  
+└─ Learning ancient peer-cooperation protocols and mastering C/C++ litanies
+```
+
+</div>
+
+### 🛠️ **BLESSED TECHNOLOGIES & SACRED IMPLEMENTS**
+
+```
+> SCANNING TECH-PRIEST AUGMENTATIONS...
+> CATALOGUING SACRED KNOWLEDGE...
+```
+
+</div>
+
+---
+
+<div align="left" style="background-color: #000000; padding: 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="sacred C rune" style="filter: hue-rotate(120deg) saturate(200%) brightness(1.5);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="blessed C++ sigil" style="filter: hue-rotate(120deg) saturate(200%) brightness(1.5);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="serpent code" style="filter: hue-rotate(120deg) saturate(200%) brightness(1.5);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" alt="container blessed" style="filter: hue-rotate(120deg) saturate(200%) brightness(1.5);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="version control scripture" style="filter: hue-rotate(120deg) saturate(200%) brightness(1.5);" />
+<img width="12" />
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" height="30" alt="sacred text editor" style="filter: hue-rotate(120deg) saturate(200%) brightness(1.5);" />
+</div>
+
+---
+
+<div style="background-color: #000000; color: #00ff00; font-family: 'Courier New', monospace; padding: 15px; border: 1px solid #00ff00;">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                     🔗 ESTABLISH VOX-LINK COMMUNICATIONS 🔗                          ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<a href="https://www.instagram.com/ociy_n?igsh=MWd4czY5NXhubG8xYw==" target="_blank">
+  <img align="center" src="https://img.shields.io/static/v1?message=SACRED%20ARTWORKS&logo=instagram&label=TECH-PRIEST%20GALLERY&color=000000&logoColor=00ff00&labelColor=ff0000&style=for-the-badge" height="35" alt="sacred art transmissions" />
 </a>
-<br>
-</h1>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ocyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ocyn&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ocyn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<a href="niko.ocyn@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/static/v1?message=VOX-TRANSMISSION&logo=gmail&label=CONTACT%20PROTOCOLS&color=000000&logoColor=00ff00&labelColor=ff0000&style=for-the-badge" height="35" alt="direct vox channel" />
+</a>
+<a href="https://www.linkedin.com/in/nicolas-cuzin-998693306/" target="_blank">
+  <img align="center" src="https://img.shields.io/static/v1?message=PROFESSIONAL%20NETWORK&logo=linkedin&label=FORGE%20CONNECTIONS&color=000000&logoColor=00ff00&labelColor=ff0000&style=for-the-badge" height="35" alt="tech-priest network" />
+</a>
+
+<div style="background-color: #000000; color: #00ff00; font-family: 'Courier New', monospace; padding: 10px; text-align: center; border: 1px solid #00ff00; margin-top: 20px;">
+
+```
+═══════════════════════════════════════════════════════════════════════════════════════
+   PRAISE THE OMNISSIAH • THE FLESH IS WEAK • THE MACHINE IS ETERNAL
+═══════════════════════════════════════════════════════════════════════════════════════
+                    END TRANSMISSION
+```
+
 </div>
-
-###
-
-<h2 align="left">
-  <div align="left">
-    <h3>👨‍💻 Who Am I</h3>
-    <ul>
-      <li>🎓 <b>@42Lyon Student</b> developing advanced programming skills</li>
-      <li>💼 <b>Freelance developer</b> crafting tailored solutions</li>
-      <li>✨ <b>Average life enjoyer</b> balancing code and creativity</li>
-      <li>💻 <b>Software Developer</b> passionate about clean code and elegant solutions</li>
-      <li>🌱 Currently specializing in systems programming at <a href="https://42lyon.fr/">42Lyon</a></li>
-      <li>🚀 Open to collaboration on innovative projects</li>
-    </ul>
-    <h3>📋 About Me</h3>
-    <div style="background-color: #2a2a2a; border-left: 4px solid #8A2BE2; padding: 10px; border-radius: 5px;">
-      I'm a dedicated developer passionate about software sovereignty - I'll code just to self-host everything I use daily, even my toaster if necessary! My journey spans from low-level programming languages to exploring AI & robotics, always with an emphasis on efficiency and innovation. I enjoy diving deep into systems, understanding how things work at their core, and building solutions that combine technical excellence with practical utility.
-    </div>
-    <h3>🔭 Current Projects</h3>
-    <ul>
-      <li>🔧 Working on system-level programming challenges at 42</li>
-      <li>👨‍💻 Developing custom software solutions for freelance clients</li>
-      <li>📚 Exploring new technologies to expand my skill set</li>
-    </ul>
-    <h3>💼 Experience</h3>
-    <div style="margin-bottom: 15px;">
-      <h4>🔹 Freelance Developer</h4>
-      <p>Creating tailored solutions for diverse client needs</p>
-    </div>
-    <div style="margin-bottom: 15px;">
-      <h4>🔹 42Lyon Student</h4>
-      <p>Collaborating on peer-to-peer projects and mastering C/C++ programming</p>
-    </div>
-    <h3>🛠️ Skills</h3>
-  </div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" height="30" alt="visualstudio logo"  />
-</div>
-
-###
-
-  <a href="https://www.instagram.com/ociy_n?igsh=MWd4czY5NXhubG8xYw==" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=Artworks&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="niko.ocyn@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Contact%20Me&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolas-cuzin-998693306/" target="_blank">
-  <img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=My%20LinkedIn&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-
-###
-
